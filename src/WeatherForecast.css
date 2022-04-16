@@ -1,8 +1,16 @@
 .WeatherForecast {
   text-align: center;
+  margin-top: 100px;
+  color: powderblue;
 }
 
 .WeatherForecast-temp-min {
-  opacity: 0.6;
+  opacity: 0.5;
   margin-left: 5px;
+  color: powderblue;
+  font-size: 14px;
+}
+
+.WeatherForecast-temp-max {
+  font-size: 14px;
 }
